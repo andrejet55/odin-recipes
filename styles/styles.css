@@ -1,0 +1,35 @@
+.feed {
+    margin: 70px;
+}
+
+.title {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+    font-style: italic;
+}
+
+.card {
+    background-color: rgb(108, 92, 68);
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 70px;
+}
+.news {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 45px;
+}
+
+.button-container {
+    margin: 10px;
+}
+
+.todays-recipe {
+    color: rgb(123, 199, 123);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
